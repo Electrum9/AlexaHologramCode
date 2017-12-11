@@ -1,6 +1,4 @@
 ![](../../wiki/assets/alexa-logo-3.png)
-
-
 ## About the Alexa Hologram
 
 This code was cloned from the AVS Sample app repository, due to the fact that it needs to be modified to launch animations whenever a command is issued. This code will then be used in a holographic Alexa. 
